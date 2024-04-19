@@ -49,6 +49,7 @@
     "should": "*"
   },
   "dependencies": {
-    "minimist": "*"
+    "minimist": "*",
+    "pcap": "^3.1.0"
   }
 }
